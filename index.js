@@ -7,4 +7,3 @@ document.addEventListener("DOMContentLoaded", function(){
 function updateDOM(){
   document.getElementById("text").textContent = "This is really cool!";
 }
-
